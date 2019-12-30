@@ -1,7 +1,6 @@
 <?php
     include('php/connect.php');
     session_start();
-  
 	if($_SESSION["username"] == "")
 	{
 		Header("Location: index.php");
