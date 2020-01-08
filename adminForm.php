@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
     <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-    <link rel="icon" type="image/png" href="image/icon.png" />
+    <link rel="icon" type="image/png" href="image/icon2.png" />
     <style>
     .sidebar-sticky {
         position: -webkit-sticky;
@@ -58,7 +58,7 @@
 
         <nav class="navbar navbar-expand-md navbar-dark  ">
 
-            <a class="navbar-brand"><img src="http://iot.rmu.ac.th/iot/Smartlock/img/icon.png" width="30" height="30"
+            <a class="navbar-brand"><img src="image/icon2.png" width="30" height="30"
                     class="d-inline-block align-top" alt="">
                 Smartlock
             </a>

@@ -61,7 +61,7 @@
     <div class="log-form">
         <nav class="navbar navbar-dark bg-primary">
             <a class="navbar-brand">
-                <img src="http://iot.rmu.ac.th/iot/Smartlock/img/icon.png" width="30" height="30"
+                <img src="image/icon2.png" width="30" height="30"
                     class="d-inline-block align-top" alt="">
                 Login SmartLock
             </a>
