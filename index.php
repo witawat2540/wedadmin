@@ -53,7 +53,7 @@
         box-sizing: border-box;
     }
     </Style>
-    <title>Login Smartlock</title>
+    <title>Login Smart Access Control</title>
 </head>
 
 <body>
@@ -61,9 +61,9 @@
     <div class="log-form">
         <nav class="navbar navbar-dark bg-primary">
             <a class="navbar-brand">
-                <img src="image/icon2.png" width="30" height="30"
+                <img src="image/icon.png" width="30" height="30"
                     class="d-inline-block align-top" alt="">
-                Login SmartLock
+                    Smart Access Control
             </a>
         </nav>
         <form align="center" name="frmlogin" id="rcorners1" method="post" action="php/checklogin.php" align="center">
