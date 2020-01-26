@@ -53,7 +53,7 @@
         box-sizing: border-box;
     }
     </Style>
-    <title>Login Smart Access Control</title>
+    <title>Residential Access Control System</title>
 </head>
 
 <body>
@@ -63,7 +63,7 @@
             <a class="navbar-brand">
                 <img src="image/icon.png" width="30" height="30"
                     class="d-inline-block align-top" alt="">
-                    Smart Access Control
+                    Residential Access Control System
             </a>
         </nav>
         <form align="center" name="frmlogin" id="rcorners1" method="post" action="php/checklogin.php" align="center">

@@ -16,7 +16,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     
-    <title>Smart Access Control</title>
+    <title>Residential Access Control System</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -60,7 +60,7 @@
 
             <a class="navbar-brand"><img src="image/icon.png" width="30" height="30"
                     class="d-inline-block align-top" alt="">
-                    Smart Access Control
+                    Residential Access Control System
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
                 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -107,7 +107,7 @@
                         <!--containernav-->
 
                         <nav class="navbar navbar-expand-md sm navbar-light">
-                            <a class="navbar-brand">Smart Access Control Admin</a>
+                            <a class="navbar-brand">RACs Admin</a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#btnadd"
                                 aria-controls="btnadd" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
